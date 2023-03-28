@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: weshopify-authn-service
+  data:
+    redis:
+      host: cache.weshopifyapp.in
+      port: 80
+      password: Redis123$
+      
+    
+
+server:
+  port: 5022
+  
+weshopify-platform:
+  scim2: 
+   usersUri: https://iam.weshopifyapp.in/scim2/Users/ 
+  oauth2: 
+    uri: https://iam.weshopifyapp.in/oauth2/token
+    logoutUri: https://iam.weshopifyapp.in/oauth2/revoke
+    userInfoUri: https://iam.weshopifyapp.in/oauth2/userinfo?schema=
+    grant_type: password
+    scope: openid
+    clientId: QLGGcnm3X3aW61N0uFEc8uKq_FAa
+    clientSecret: 3kqsCWj64H6O4szaJDfmYwEdvBka
+ 
+    

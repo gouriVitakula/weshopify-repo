@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/weshopify-authn-service/weshopify-authn-service.iml" filepath="$PROJECT_DIR$/weshopify-authn-service/weshopify-authn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weshopify-brands-service/weshopify-brands-service.iml" filepath="$PROJECT_DIR$/weshopify-brands-service/weshopify-brands-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weshopify-category-service/weshopify-category-service.iml" filepath="$PROJECT_DIR$/weshopify-category-service/weshopify-category-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weshopify-platform-commons/weshopify-platform-commons.iml" filepath="$PROJECT_DIR$/weshopify-platform-commons/weshopify-platform-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weshopify-platform-services-registry/weshopify-platform-services-registry.iml" filepath="$PROJECT_DIR$/weshopify-platform-services-registry/weshopify-platform-services-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weshopify-user-management-service/weshopify-user-management-service.iml" filepath="$PROJECT_DIR$/weshopify-user-management-service/weshopify-user-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weshopify-user-management-service-main.iml" filepath="$PROJECT_DIR$/.idea/weshopify-user-management-service-main.iml" />
+    </modules>
+  </component>
+</project>
